@@ -1,4 +1,4 @@
-# BaliSort AI
+# BaliSort-AI
 
 BaliSort AI adalah aplikasi Streamlit untuk mengenali kategori sampah dari
 gambar menggunakan MobileNetV3-Large dan memberikan rekomendasi pemilahan.
