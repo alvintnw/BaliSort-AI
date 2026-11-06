@@ -1,0 +1,17 @@
+
+venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+*.db
+.DS_Store
+
+# Dataset and trained model artifacts
+dataset/*
+!dataset/train/
+!dataset/validation/
+!dataset/test/
+models/*
+!models/.gitkeep
+!models/best_model.pth
