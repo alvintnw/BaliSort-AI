@@ -1,4 +1,4 @@
-# BaliSort AI
+# BaliSort-AI
 
 ## Description
 
