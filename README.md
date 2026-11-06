@@ -205,3 +205,5 @@ berisi nama file unggahan atau data penggunaan. Untuk deployment publik:
 - Memperluas pengujian otomatis untuk alur UI.
 - Mengekspor feedback secara terkontrol untuk kurasi dataset.
 - Menambahkan autentikasi dan penyimpanan terkelola sebelum deployment publik.
+
+Recognize Waste. Sort Better. Build a Cleaner Bali.
